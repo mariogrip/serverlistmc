@@ -3,8 +3,8 @@
 
 // Configs
 $l_lang = "English";
-$l_create-accont = "Create accont";
-$l_sign-in = "Sign in";
+$l_create_accont = "Create accont";
+$l_sign_in = "Sign in";
 $l_players = "Players";
 $l_votes = "votes";
 $l_status = "Status";
@@ -14,9 +14,9 @@ $l_ip = "ip";
 $l_id = "id";
 
 // Home page
-$l_home-page = "Home";
+$l_home_page = "Home";
 $l_servers = "Servers";
-$l_all-list-serv = "All Listed Servers";
+$l_all_list_serv = "All Listed Servers";
 $l_information = "Information";
 
 
