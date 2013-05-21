@@ -24,6 +24,10 @@ $l_server_ip = "Server IP";
 $l_created = "Created";
 $l_owner = "Owner";
 $l_Share = "Share";
+$l_banner = "Banner";
+$l_BBcode = "BBCode for your forum signature";
+$l_HTML = "HTML for your website";
+$l_vote = "Vote!";
 
 // Login page
 $l_login_page = "Log in";
@@ -40,7 +44,14 @@ $l_error_4 = "Please Fill in all fields!";
 
 
 // Add server page
-
+$l_add_your_server = "Add your Minecraft Server";
+$l_name = "Name";
+$l_ip_host = "IP/Host";
+$l_type = "Type";
+$l_websiteurl = "Website URL";
+$l_des = "Description";
+$l_submit = "Submit";
+$l_des_name = "";
 
 
 //Manage server page
