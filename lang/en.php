@@ -1,3 +1,4 @@
+<?php
 // This file is not finished!
 // Lang file for EN, you can use this as an template...
 
@@ -55,3 +56,4 @@ $l_des_name = "";
 
 
 //Manage server page
+?>

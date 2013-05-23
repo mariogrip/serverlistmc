@@ -1,3 +1,4 @@
+<?php
 // This file is not finished! (Denne filen er ikke ferdig)
 // Norwegin lang file (norsk lang file)
 
@@ -55,3 +56,4 @@ $l_des_name = "";
 
 
 //Manage server page
+?>
